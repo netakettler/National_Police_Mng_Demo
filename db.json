@@ -1,6 +1,6 @@
 {"carRegistration": [
   {
- "VechileIdentificationNumber":  "JTJHT00W523523060",
+ "VechileIdentificationNumber":  1,
  "Description":  "Lexus  LX  470",
  "CarMake":  {  "CurrentTextValue":  "Lexus"},
  "CarModel":  {  "CurrentTextValue":  "LX  470"},
@@ -13,7 +13,7 @@
 },
 
 {
-  "VechileIdentificationNumber":"MDHBBAN17Z0501754",
+  "VechileIdentificationNumber":2,
   "Description":"Nissan Almera",
   "CarMake":{"CurrentTextValue":"Nissan"},
   "CarModel":{"CurrentTextValue":"Almera"},
