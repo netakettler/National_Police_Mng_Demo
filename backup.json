@@ -1,0 +1,31 @@
+{"carRegistration": [
+  {
+ "id":  1,
+ "VechileIdentificationNumber":  "JTJHT00W523523060",
+ "Description":  "Lexus  LX  470",
+ "CarMake":  {  "CurrentTextValue":  "Lexus"},
+ "CarModel":  {  "CurrentTextValue":  "LX  470"},
+ "RegistrationYear": 2002,
+ "Colour":  "Blue",
+ "Expiry":  "2017-10-25T13:03:12",
+ "Region":  "Lagos  Mainland,  Lagos  (Lagos  Mainland)",
+ "Image":  "http:\/\/www.carregistrationapi.com\/image.aspx\/@TGV4dXMgTFggNDcw",  
+ "OwnerInformation" :  "MUHAMAMD ZAHID HANIF"
+},
+
+{
+  "id":2,
+  "VechileIdentificationNumber":"MDHBBAN17Z0501754",
+  "Description":"Nissan Almera",
+  "CarMake":{"CurrentTextValue":"Nissan"},
+  "CarModel":{"CurrentTextValue":"Almera"},
+  "RegistrationYear":2005,
+  "Colour":"Grey",
+  "Expiry":"2017-11-23T13:03:59",  
+  "Region":"",
+  "Image":"http://www.carregistrationapi.com/image.aspx/@Tmlzc2FuICBBbG1lcmE=",
+   "OwnerInformation" :  "new person"
+ }
+   
+   
+]}
