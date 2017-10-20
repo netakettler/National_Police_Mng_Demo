@@ -1,30 +1,31 @@
-{"carRegistration": [
-  {
- "Description":  "Lexus  LX  470",
- "CarMake":  {  "CurrentTextValue":  "Lexus"},
- "CarModel":  {  "CurrentTextValue":  "LX  470"},
- "RegistrationYear": 2002,
- "Colour":  "Blue",
- "Expiry":  "2017-10-25T13:03:12",
- "VechileIdentificationNumber":  "JTJHT00W523523060",
- "Region":  "Lagos  Mainland,  Lagos  (Lagos  Mainland)",
- "Image":  "http:\/\/www.carregistrationapi.com\/image.aspx\/@TGV4dXMgTFggNDcw",
-  
- "OwnerInformation" :  "MUHAMAMD ZAHID HANIF"
-},
-
 {
-  "Description":"Nissan Almera",
-  "CarMake":{"CurrentTextValue":"Nissan"},
-  "CarModel":{"CurrentTextValue":"Almera"},
-  "RegistrationYear":2005,
-  "Colour":"Grey",
-  "Expiry":"2017-11-23T13:03:59",
-  "VechileIdentificationNumber":"MDHBBAN17Z0501754",
-  "Region":"",
-  "Image":"http://www.carregistrationapi.com/image.aspx/@Tmlzc2FuICBBbG1lcmE=",
-   "OwnerInformation" :  "new person"
- }
-   
-   
-]}
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
