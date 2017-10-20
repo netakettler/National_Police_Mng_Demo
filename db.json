@@ -1,6 +1,6 @@
 {"carRegistration": [
   {
- "VechileIdentificationNumber":  1,
+ "id":  1,
  "Description":  "Lexus  LX  470",
  "CarMake":  {  "CurrentTextValue":  "Lexus"},
  "CarModel":  {  "CurrentTextValue":  "LX  470"},
@@ -13,7 +13,7 @@
 },
 
 {
-  "VechileIdentificationNumber":2,
+  "id":2,
   "Description":"Nissan Almera",
   "CarMake":{"CurrentTextValue":"Nissan"},
   "CarModel":{"CurrentTextValue":"Almera"},
