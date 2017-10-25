@@ -1,37 +1,31 @@
-"carRegistration": [
-  {
- "Description":  "Lexus  LX  470",
- "CarMake":  {  "CurrentTextValue":  "Lexus"},
- "CarModel":  {  "CurrentTextValue":  "LX  470"},
- "RegistrationYear": 2002,
- "Colour":  "Blue",
- "VechileIdentificationNumber":  "JTJHT00W523523060",
- "Image":  "http:\/\/www.carregistrationapi.com\/image.aspx\/@TGV4dXMgTFggNDcw",
-  
- "OwnerInformation" :  "MUHAMAMD ZAHID HANIF"
-},
-
 {
-  "Description":"Nissan Almera",
-  "CarMake":{"CurrentTextValue":"Nissan"},
-  "CarModel":{"CurrentTextValue":"Almera"},
-  "RegistrationYear":2005,
-  "Colour":"Grey",
-  "VechileIdentificationNumber":"MDHBBAN17Z0501754",
-  "Image":"http://www.carregistrationapi.com/image.aspx/@Tmlzc2FuICBBbG1lcmE=",
-   "OwnerInformation" :  "new person"
- }
-   
-   
-{
-  "Description":"2004 ACURA MDX TOURING SUV 4 Doors",
-  "CarMake":{"CurrentTextValue":"MDX TOURING"},
-  "CarModel":{"CurrentTextValue":"ACURA"},
-  "RegistrationYear":2004,
-  "Colour":"Black",
-  "VechileIdentificationNumber":"2HNYD18944H535859",
-  "Image":"https://3.bp.blogspot.com/-jLsoEwIyue0/VtoCHXCQGoI/AAAAAAAAB1Q/c3FpHjvsmLg/s1600/2004-Acura-Mdx-touring-suv-4doors1.PNG",
-  "OwnerInformation" :  "new person"
- }
-   
-]
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
